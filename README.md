@@ -4,7 +4,7 @@ This is a react site for freelancer audio producer Emily Naylor.
 
 ## https://www.linkedin.com/in/emily-naylor-b19611bb
 
-Cproeated with Create React App [Create React App](https://github.com/facebook/create-react-app).
+Created with Create React App [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
