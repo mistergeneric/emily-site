@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Emily Naylor Producer Site
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a react site for freelancer audio producer Emily Naylor.
+
+## https://www.linkedin.com/in/emily-naylor-b19611bb
+
+Cproeated with Create React App [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
