@@ -23,9 +23,7 @@ export const Portfolio = () => {
                 data-bs-target="#portfolioModal1"
               >
                 <div className="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                  <div className="portfolio-item-caption-content text-center text-white">
-                    <i className="fas fa-plus fa-3x"></i>
-                  </div>
+                  <div className="portfolio-item-caption-content text-center text-white"></div>
                 </div>
                 <img className="img-fluid" src="/img/nova-logo.png" alt="..." />
               </div>
@@ -39,9 +37,7 @@ export const Portfolio = () => {
                 data-bs-target="#portfolioModal2"
               >
                 <div className="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                  <div className="portfolio-item-caption-content text-center text-white">
-                    <i className="fas fa-plus fa-3x"></i>
-                  </div>
+                  <div className="portfolio-item-caption-content text-center text-white"></div>
                 </div>
                 <img className="img-fluid" src="/img/BBC-logo.png" alt="..." />
               </div>
@@ -55,9 +51,7 @@ export const Portfolio = () => {
                 data-bs-target="#portfolioModal3"
               >
                 <div className="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                  <div className="portfolio-item-caption-content text-center text-white">
-                    <i className="fas fa-plus fa-3x"></i>
-                  </div>
+                  <div className="portfolio-item-caption-content text-center text-white"></div>
                 </div>
                 <img className="img-fluid" src="/img/fill-logo.png" alt="..." />
               </div>

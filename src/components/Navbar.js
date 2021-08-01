@@ -18,7 +18,6 @@ export const NavBar = () => {
           aria-label="Toggle navigation"
         >
           Menu
-          <i className="fas fa-bars"></i>
         </button>
         <div className="collapse navbar-collapse" id="navbarResponsive">
           <ul className="navbar-nav ms-auto">
